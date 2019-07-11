@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sponcer" label="Sponcer" language="en" table="x_376592_marketing_events_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sponcer</element>
+            <help/>
+            <hint/>
+            <label>Sponcer</label>
+            <language>en</language>
+            <name>x_376592_marketing_events_table</name>
+            <plural>Sponcers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:04:36</sys_created_on>
+            <sys_id>1dd9dd4adbae33002c8adde7489619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sponcer</sys_name>
+            <sys_package display_value="Marketing Events" source="x_376592_marketing">79f51d86dbae33002c8adde74896192d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Events">79f51d86dbae33002c8adde74896192d</sys_scope>
+            <sys_update_name>sys_documentation_x_376592_marketing_events_table_sponcer_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:04:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
